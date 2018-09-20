@@ -1,7 +1,5 @@
 #!/bin/bash -xv
 
-cd ~
-rm -rf training-data-analyst
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
  
 
