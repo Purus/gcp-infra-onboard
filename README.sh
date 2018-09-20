@@ -9,3 +9,8 @@ Order
 1. DataFlow
 1. BigQuery
 1. Machine Learning
+
+
+#TODO: 
+1. Add wordcount in dataflow in python
+2. Add Machine Learning demand forecast without BigQuery on colab
