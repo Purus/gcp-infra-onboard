@@ -1,6 +1,8 @@
 execute by calling `bash -x <executable.sh>`
 
 Order
+1. Compute Engine
+1. Cloud Storage
 1. Kubernetes
 1. AppEngine
 1. Deployment
