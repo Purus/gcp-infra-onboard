@@ -1,0 +1,1 @@
+- https://www.networkmanagementsoftware.com/google-cloud-platform-gcp-networking-fundamentals/

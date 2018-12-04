@@ -1,0 +1,8 @@
+- https://medium.com/google-cloud/the-12-components-of-google-bigquery-c2b49829a7c7
+- https://medium.com/google-cloud/visualize-gcp-billing-using-bigquery-and-data-studio-d3e695f90c08
+- BigQuery Internals
+    - www.cloud.google.com/blog/big-data/2016/02/understanding-bigquerys-rapid-scaling-and-simple-pricing
+    - www.cloud.google.com/blog/big-data/2016/01/anatomy-of-a-bigquery-query
+    - www.cloud.google.com/blog/big-data/2016/01/bigquery-under-the-hood
+    - www.cloud.google.com/blog/big-data/2016/04/inside-capacitor-bigquerys-next-generation-columnar-storage-format
+    - Internal of BigQuery: (External Website, Speaker from Google) www.atscaleconference.com/videos/bigquery-managed-storage-for-analytics
